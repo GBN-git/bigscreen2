@@ -2,7 +2,7 @@
   <div class="bigscreen">
     <div class="row">
       <header>
-        <h1>天气监测</h1>
+        <h1>吉林省天气监测</h1>
       </header>
       <weather></weather>
       <so></so>
@@ -18,14 +18,18 @@ export default {
 }
 </script>
 
-<style >
+<style>
 body{
   background-image: url("./assets/bg.png");
 }
 
 h1{
+
   text-align: center;
-  color: aliceblue;
+  color: #16edef;
   /*background-image: url("./assets/head.png");*/
 }
+/*bigScreen{*/
+/*  height: 100vh;*/
+/*}*/
 </style>
