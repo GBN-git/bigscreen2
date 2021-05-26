@@ -2,12 +2,17 @@
 
     height: 600px;
     color: #16edef;
+
     /*border: 1px solid #ff0000;*/
+
+    border: 1px solid #ff0000;
+
 
 }
 .col-md-12{
     height: 300px;
     /*border: 1px solid #85ff00;*/
+    border: 1px solid #85ff00;
 
 }
 .h3{
